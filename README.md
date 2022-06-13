@@ -1,4 +1,4 @@
-# Credit-card-default-repository
+# Credit-card-default-prediction
 
 # Predicting whether a customer will default on his/her credit card
 
