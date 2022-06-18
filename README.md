@@ -44,3 +44,13 @@ Model Prediction
 3) After cross validation and hyperparameter tunning, XG Boost shows highest test accuracy score of 87% and AUC is 0.873.
 
 4) Cross validation and hyperparameter tunning certainly reduces chances of overfitting and also increases performance of model.
+
+# Credits
+
+Soni Rani | Data Scientist | Machine Learning Enthusiast
+
+Suraj singh | Data Scientist | Machine Learning Enthusiast
+
+# Refrences
+
+Random Forest Regressor - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
