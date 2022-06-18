@@ -50,7 +50,3 @@ Model Prediction
 Soni Rani | Data Scientist | Machine Learning Enthusiast
 
 Suraj singh | Data Scientist | Machine Learning Enthusiast
-
-# Refrences
-
-Random Forest Regressor - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
