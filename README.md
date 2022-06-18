@@ -50,3 +50,10 @@ Model Prediction
 Soni Rani | Data Scientist | Machine Learning Enthusiast
 
 Suraj singh | Data Scientist | Machine Learning Enthusiast
+
+# References
+
+
+Using SMOTE - https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
+
+XGBoost Documentation - https://xgboost.readthedocs.io/en/stable/
