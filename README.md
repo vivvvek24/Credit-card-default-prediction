@@ -35,7 +35,7 @@ Data Exploration
 
 Model Prediction
 
-## 💾 Project Files Description
+## Project Files Description
  
 This Project includes 1 colab notebook and 1 Pdf of presentation.
 
@@ -49,7 +49,7 @@ This Project includes 1 colab notebook and 1 Pdf of presentation.
 
 [Google Colab](https://github.com/vivvvek24/Credit-card-default-prediction/blob/main/Copy_of_Credit_Card_Default_Prediction_Capstone_Project.ipynb) - All the outputs are visible in the provided colab notebook.
 
-## 📋 **Execution Instruction**
+## **Execution Instruction**
 
 The order of execution of the colab notebook is as follows:
 
@@ -96,10 +96,10 @@ accuracy score of 87% and AUC is 0.873.
 4. Cross validation and hyperparameter tunning certainly reduces chances of
 overfitting and also increases performance of model.
 
-## 📜 **Credits**
+## **Credits**
  Vivek Kumar | Soni Rani | Suraj Singh
 
-## 📚 **References**
+## **References**
 Using SMOTE - https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
 
 XGBoost Documentation - https://xgboost.readthedocs.io/en/stable/
