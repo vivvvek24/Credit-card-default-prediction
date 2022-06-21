@@ -1,8 +1,8 @@
 # Credit-card-default-prediction
-
+**AlmaBetter Verfied Project**
 ![1_rThNv4Pa3SiK4f-bBd27eg](https://user-images.githubusercontent.com/100477239/173379913-526141d7-0708-4db1-b28d-a33b4464a06b.jpeg)
 
-
+# 📋 Problem Statement
 # Predicting whether a customer will default on his/her credit card
 
 This project is aimed at predicting the case of customers default payments in Taiwan. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients.
@@ -97,7 +97,7 @@ accuracy score of 87% and AUC is 0.873.
 overfitting and also increases performance of model.
 
 ## 📜 **Credits**
- Vivek Kumar |Soni Rani | Suraj Singh
+ Vivek Kumar | Soni Rani | Suraj Singh
 
 ## 📚 **References**
 Using SMOTE - https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
